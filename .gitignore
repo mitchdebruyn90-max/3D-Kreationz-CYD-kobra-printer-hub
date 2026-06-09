@@ -1,0 +1,45 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.VS/
+
+# Build directories
+build/
+dist/
+*.o
+*.a
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+*.hex
+*.elf
+*.bin
+
+# Logs
+*.log
+
+# Dependencies
+.deps/
+.dependencies/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
